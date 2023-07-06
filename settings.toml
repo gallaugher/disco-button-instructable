@@ -1,0 +1,9 @@
+# settings.toml
+# WIFI_SSID="BostonCollege"
+# WIFI_PASSWORD=""
+WIFI_SSID="G-Force Wi-Fi Network"
+WIFI_PASSWORD="gallaugherian"
+AIO_USERNAME="lilygallaugher"
+AIO_KEY="aio_Adfn22mYSy34YbPmdfCgfjRvuVnf"
+BROKER="io.adafruit.com"
+PORT=1883
